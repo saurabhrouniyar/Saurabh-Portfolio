@@ -24,8 +24,8 @@ export default function Hero() {
           src={mypic}
           alt="profile"
           style={{
-            width: "420px",
-            height: "420px",
+            width: "220px",
+            height: "220px",
             objectFit: "cover",
             borderRadius: "50%",
             border: "3px solid var(--accent)",
